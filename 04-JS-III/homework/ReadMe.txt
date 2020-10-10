@@ -1,0 +1,1 @@
+Array: Es una variable que puede contener desde 0 a n elementos de cualquier tipo
